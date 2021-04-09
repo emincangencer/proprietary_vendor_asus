@@ -616,7 +616,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00QD/proprietary/vendor/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/asus/X00QD/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/asus/X00QD/proprietary/vendor/etc/vintf/manifest/android.hardware.gnss@2.0-service-qti.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.gnss@2.0-service-qti.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/vintf/manifest/android.hardware.thermal@2.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.thermal@2.0-service.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/vintf/manifest/vendor.qti.gnss@3.0-service.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/vendor.qti.gnss@3.0-service.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/workspace_grid_setting.xml:$(TARGET_COPY_OUT_VENDOR)/etc/workspace_grid_setting.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
