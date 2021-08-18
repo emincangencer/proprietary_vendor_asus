@@ -367,36 +367,6 @@ vendor/asus/X00QD/proprietary/system_ext/lib64/com.qualcomm.qti.uceservice@2.0.s
     vendor/asus/X00QD/proprietary/vendor/bin/xtra-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/xtra-daemon \
     vendor/asus/X00QD/proprietary/vendor/bin/xtwifi-client:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-client \
     vendor/asus/X00QD/proprietary/vendor/bin/xtwifi-inet-agent:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-inet-agent \
-    vendor/asus/X00QD/proprietary/vendor/etc/BR/TIM_BR/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/BR/TIM_BR/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/BR/TIM_BR/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/BR/TIM_BR/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/BR/VIVO/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/BR/VIVO/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/BR/VIVO/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/BR/VIVO/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/EU/TIM/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/EU/TIM/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/EU/TIM/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/EU/TIM/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/EU/VF_IT/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/EU/VF_IT/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/EU/VF_IT/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/EU/VF_IT/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/EU/WIND/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/EU/WIND/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/EU/WIND/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/EU/WIND/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/Generic/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Generic/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/Generic/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/Generic/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/ID/ASUS/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ID/ASUS/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/ID/ASUS/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ID/ASUS/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/IN/ASUS/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/IN/ASUS/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/IN/ASUS/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/IN/ASUS/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/JP/ACJ/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/JP/ACJ/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/JP/ACJ/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/JP/ACJ/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/RU/ASUS/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/RU/ASUS/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/RU/ASUS/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/RU/ASUS/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/TW/ASUS/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/TW/ASUS/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/TW/ASUS/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/TW/ASUS/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/US/ASUS/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/US/ASUS/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/US/ASUS/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/US/ASUS/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/WW/ASUS/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/WW/ASUS/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/WW/ASUS/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/WW/ASUS/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/WW/TIM/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/WW/TIM/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/WW/TIM/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/WW/TIM/Launcher/default_workspace/phone_workspace.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/WW/VF_IT/Launcher/default_workspace/default_allapp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/WW/VF_IT/Launcher/default_workspace/default_allapp.xml \
-    vendor/asus/X00QD/proprietary/vendor/etc/WW/VF_IT/Launcher/default_workspace/phone_workspace.xml:$(TARGET_COPY_OUT_VENDOR)/etc/WW/VF_IT/Launcher/default_workspace/phone_workspace.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/asus/X00QD/proprietary/vendor/etc/acdbdata/MTP/MTP_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_General_cal.acdb \
     vendor/asus/X00QD/proprietary/vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/MTP/MTP_Global_cal.acdb \
