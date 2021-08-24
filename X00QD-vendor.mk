@@ -498,6 +498,15 @@ vendor/asus/X00QD/proprietary/system_ext/lib64/com.qualcomm.qti.uceservice@2.0.s
     vendor/asus/X00QD/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile4.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile5.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/cne/wqeclient/VZW/VZW_profile6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cne/wqeclient/VZW/VZW_profile6.xml \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b00 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b01:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b01 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b02:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b02 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b03:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b03 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b04:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b04 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b05:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b05 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b06:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b06 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.b07:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.b07 \
+    vendor/asus/X00QD/proprietary/vendor/etc/firmware/goodixfp.mdt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/goodixfp.mdt \
     vendor/asus/X00QD/proprietary/vendor/etc/data/dsi_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/dsi_config.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/data/netmgr_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/netmgr_config.xml \
     vendor/asus/X00QD/proprietary/vendor/etc/fallback_fonts.xml:$(TARGET_COPY_OUT_VENDOR)/etc/fallback_fonts.xml \
