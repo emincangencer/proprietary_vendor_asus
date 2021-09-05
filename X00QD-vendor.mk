@@ -710,9 +710,6 @@ vendor/asus/X00QD/proprietary/system_ext/lib64/com.qualcomm.qti.uceservice@2.0.s
     vendor/asus/X00QD/proprietary/vendor/lib/hw/camera.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.sdm660.so \
     vendor/asus/X00QD/proprietary/vendor/lib/hw/com.qualcomm.qti.ant@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/com.qualcomm.qti.ant@1.0-impl.so \
     vendor/asus/X00QD/proprietary/vendor/lib/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.default.so \
-    vendor/asus/X00QD/proprietary/vendor/lib/hw/gralloc.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.sdm660.so \
-    vendor/asus/X00QD/proprietary/vendor/lib/hw/hwcomposer.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.sdm660.so \
-    vendor/asus/X00QD/proprietary/vendor/lib/hw/memtrack.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.sdm660.so \
     vendor/asus/X00QD/proprietary/vendor/lib/hw/nfc_nci.nqx.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/nfc_nci.nqx.default.so \
     vendor/asus/X00QD/proprietary/vendor/lib/hw/sensors.sdm660_64.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.sdm660_64.so \
     vendor/asus/X00QD/proprietary/vendor/lib/hw/vendor.qti.esepowermanager@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.esepowermanager@1.0-impl.so \
